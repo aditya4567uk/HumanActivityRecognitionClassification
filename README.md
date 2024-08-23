@@ -12,3 +12,17 @@ Target column labels are (Activities)-
 
 <br/>
 Input features are acc, velocity etc in all directions X,Y,Z Vectors -- There are approx 500+ feature columns on which we have train model to predict correct label.
+
+<br/>
+
+ALGORITHMS USED:-
+<ul>
+  <li>LOGISTIC REGRESSION</li>
+  <li>NAIVE BAYES</li>
+  <li>KNN</li>
+  <li>DECISION TREE</li>
+  <li>SVM - RBF KERNEL</li>
+  <li>SVM - LINEAR KERNEL</li>
+  <li>GRADIENT BOOSTING CLASSIFIER</li>
+  <li>RANDOM FOREST</li>
+</ul>
