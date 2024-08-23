@@ -26,3 +26,7 @@ ALGORITHMS USED:-
   <li>GRADIENT BOOSTING CLASSIFIER</li>
   <li>RANDOM FOREST</li>
 </ul>
+
+<br/>
+<H2>OUTCOME</H2>
+<img src="25.PNG"/>
